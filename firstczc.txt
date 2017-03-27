@@ -1,2 +1,4 @@
-hello,world
-ÄãºÃ¡£
+ï»¿hello,world
+hellow,world
+how are you
+ä½ å¥½ã€‚
